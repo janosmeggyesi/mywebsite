@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; János Meggyesi | Electrical engineer | Software developer</title>
+	<title>Uncategorized &#8211; János Meggyesi</title>
 	<atom:link href="https://janosmeggyesi.com/index.php/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://janosmeggyesi.com/</link>
 	<description></description>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://janosmeggyesi.com/wp-content/uploads/2024/08/portrait-1-150x150.jpg</url>
+	<title>Uncategorized &#8211; János Meggyesi</title>
+	<link>https://janosmeggyesi.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://janosmeggyesi.com/index.php/2024/08/27/hello-world/</link>
